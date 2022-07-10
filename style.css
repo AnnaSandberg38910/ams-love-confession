@@ -87,7 +87,7 @@ img {
                               padding: 10px;
                }
                .content {
-               width: 335px;
+               width: 332px;
                border-radius: 6px;
                gap: 2px;
                height: -webkit-fit-content;
@@ -95,10 +95,10 @@ img {
                height: fit-content;
                overflow-y: auto;    
                overflow-x: hidden;
-               padding: 8px;
+               padding: 6px;
                }
 
-               img {  width: 350px; margin: 15px; height: -webkit-fit-content; height: -moz-fit-content; height: fit-content; }
+               img {  width: 350px; margin: 15px; height: 100%; }
                p { margin: 5px; }
                h1 {  margin: 4px 0px; }
                               
