@@ -1,5 +1,4 @@
 body {
-               /* width: 100vh; height: 100vw; */
                cursor: url('img/Normal Select Kawaii Kitty.cur'), auto;
 }
 
@@ -93,12 +92,10 @@ img {
                height: -webkit-fit-content;
                height: -moz-fit-content;
                height: fit-content;
-               overflow-y: auto;    
-               overflow-x: hidden;
                padding: 6px;
                }
 
-               img {  width: 350px; margin: 15px; height: 100%; }
+               img {  width: 350px; margin: 15px; }
                p { margin: 5px; }
                h1 {  margin: 4px 0px; }
                               
